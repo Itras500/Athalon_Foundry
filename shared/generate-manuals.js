@@ -95,7 +95,7 @@ const sources = {
     ]
   },
   en: {
-    name: 'Athalon',
+    name: 'Call of Cthulhu 7th Edition',
     priority: 0,
     pages: [
       {

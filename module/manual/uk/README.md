@@ -4,9 +4,9 @@
 
 Для гри вам потрібна одна з приведених нижче книг
 
-- Chaosium's Athalon - Keeper's Rulebook
-- Chaosium's Athalon - Call of Cthulhu Starter Set
-- Chaosium's Athalon - Quick-Start Rules
+- Chaosium's Call of Cthulhu 7th Edition - Keeper's Rulebook
+- Chaosium's Call of Cthulhu 7th Edition - Call of Cthulhu Starter Set
+- Chaosium's Call of Cthulhu 7th Edition - Quick-Start Rules
 
 _АБО_ у перекладі від GEEKACH, які надали свій словник перекладу, чим дуже допомогли та пришвидшили роботу.
 На момент перекладу, у наявності є таки книги правил
@@ -96,7 +96,7 @@ Foundry VTT базується на акторах та предметах. Це
 
 Перейдіть у вкладку Налаштувань гри (Game Settings), потім натисніть на кнопку "Налаштування" (Configure Settings).
 
-Натисніть на Налаштування Системи (Athalon)
+Натисніть на Налаштування Системи (Call of Cthulhu 7th Edition)
 
 - _Варіативні/Опціональні Правила_ - містить у собі окремі правила Pulp Cthulhu та інші опціональні правила
 - _Налаштування ініціативи_ - містить у собі додаткові опціональні налаштування ініціативи

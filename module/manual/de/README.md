@@ -8,9 +8,9 @@ This document is a work in progress overview of the CoC7 system it is not a tuto
 
 You will need one of the following to play the game
 
-- Chaosium's Athalon - Keeper's Rulebook
-- Chaosium's Athalon - Call of Cthulhu Starter Set
-- Chaosium's Athalon - Quick-Start Rules
+- Chaosium's Call of Cthulhu 7th Edition - Keeper's Rulebook
+- Chaosium's Call of Cthulhu 7th Edition - Call of Cthulhu Starter Set
+- Chaosium's Call of Cthulhu 7th Edition - Quick-Start Rules
 
 The system automates most of the regular tasks and rules involved with running a game.
 

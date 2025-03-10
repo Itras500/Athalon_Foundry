@@ -1,4 +1,4 @@
-Thank you for being interested in making Athalon for Foundry VTT better. We encourage everyone to help improve this project with new features, bug fixes, or performance improvements. Please take a little bit of your time to read this guide and follow the steps bellow to make this process faster and easier.
+Thank you for being interested in making Call of Cthulhu 7th Edition for Foundry VTT better. We encourage everyone to help improve this project with new features, bug fixes, or performance improvements. Please take a little bit of your time to read this guide and follow the steps bellow to make this process faster and easier.
 
 The goal of this document is to provide easy instructions to setup a development environment and provide clear contribution guidelines to encourage participation from more developers.
 
