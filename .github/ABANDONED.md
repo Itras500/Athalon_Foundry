@@ -1,6 +1,6 @@
 # Abandoned Translations.
 
-Thank you for being interested in making Call of Cthulhu 7th Edition for Foundry VTT better! Below is a list of translations keys on existing files that still need translated, based on `en.json`.
+Thank you for being interested in making Athalon for Foundry VTT better! Below is a list of translations keys on existing files that still need translated, based on `en.json`.
 
 [cn.json (465 untranslated strings)](#cnjson)
 

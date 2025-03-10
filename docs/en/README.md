@@ -5,9 +5,9 @@ This document is a work in progress overview of the CoC7 system it is not a tuto
 
 You will need one of the following to play the game
 
-- Chaosium's Call of Cthulhu 7th Edition - Keeper's Rulebook
-- Chaosium's Call of Cthulhu 7th Edition - Call of Cthulhu Starter Set
-- Chaosium's Call of Cthulhu 7th Edition - Quick-Start Rules
+- Chaosium's Athalon - Keeper's Rulebook
+- Chaosium's Athalon - Call of Cthulhu Starter Set
+- Chaosium's Athalon - Quick-Start Rules
 
 The system automates most of the regular tasks and rules involved with running a game.
 
@@ -22,8 +22,8 @@ For a full list of changes checkout the [changelog](https://github.com/Miskatoni
  - New investigator sheet
 
 # Chaosium Modules
-- [Call of Cthulhu® - Starter Set](https://foundryvtt.com/packages/cha-coc-fvtt-en-starterset) - Contains three scenarios (Paper Chase, Edge of Darkness, and Dead Man Stomp) and instructions for playing Call of Cthulhu 7th edition.
-- [Call of Cthulhu® - Quick-Start Rules](https://foundryvtt.com/packages/cha-coc-fvtt-en-quickstart) - Contains The Haunting scenario and a beginner guide to FoundryVTT and Call of Cthulhu 7th edition.
+- [Call of Cthulhu® - Starter Set](https://foundryvtt.com/packages/cha-coc-fvtt-en-starterset) - Contains three scenarios (Paper Chase, Edge of Darkness, and Dead Man Stomp) and instructions for playing Athalon.
+- [Call of Cthulhu® - Quick-Start Rules](https://foundryvtt.com/packages/cha-coc-fvtt-en-quickstart) - Contains The Haunting scenario and a beginner guide to FoundryVTT and Athalon.
 - [Call of Cthulhu® - FoundryVTT - Investigator Wizard](https://foundryvtt.com/packages/call-of-cthulhu-foundryvtt-investigator-wizard) - Released with permission from Chaosium contains archetypes, occupations, setups, and skills for use with the Investigator Creation Wizard.
 
 # Overview sections below

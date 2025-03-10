@@ -1,7 +1,7 @@
 {
   "id": "ATH",
   "title": "Athalon",
-  "description": "An implementation of the Call of Cthulhu 7th Edition game system for Foundry Virtual Tabletop.",
+  "description": "An implementation of the Athalon game system for Foundry Virtual Tabletop.",
   "version": "7.9",
   "authors": [
     {

@@ -42,7 +42,7 @@ glob('./lang/*.json', {}, async function (er, files) {
   output = output + '# Translating.\n\n'
   output =
     output +
-    'Thank you for being interested in making Call of Cthulhu 7th Edition for Foundry VTT better!'
+    'Thank you for being interested in making Athalon for Foundry VTT better!'
   if (missing.length > 0) {
     output =
       output +
@@ -122,7 +122,7 @@ glob('./lang/*.json', {}, async function (er, files) {
     output = output + '# Abandoned Translations.\n\n'
     output =
       output +
-      'Thank you for being interested in making Call of Cthulhu 7th Edition for Foundry VTT better!'
+      'Thank you for being interested in making Athalon for Foundry VTT better!'
     output =
       output +
       ' Below is a list of translations keys on existing files that still need translated, based on `en.json`.\n\n'

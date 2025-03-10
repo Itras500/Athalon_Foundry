@@ -598,7 +598,7 @@ When not specified, all changes were made by @castanhocorreia, @HavlockV and @sn
 
 When not specified, all changes were made by @castanhocorreia, @HavlockV and @snap01.
 
-- Fix JavaScript Error "Call of Cthulhu 7th Edition (Unofficial): Error detected in system. (See JS Console)" if libWrapper module is active.
+- Fix JavaScript Error "Athalon (Unofficial): Error detected in system. (See JS Console)" if libWrapper module is active.
 - Update updater to check module compendiums for Actors and Items.
 - Fixes to compendium packs.
   - Demolitions - set base skill to 1%.
@@ -675,7 +675,7 @@ When not specified, all changes were made by @castanhocorreia, @HavlockV and @sn
 
 ## Version 0.6.5
 
-This release features major code refactoring and data migration. It is highly recommended to backup the worlds directories linked to Call of Cthulhu 7th Edition before updating the system.
+This release features major code refactoring and data migration. It is highly recommended to backup the worlds directories linked to Athalon before updating the system.
 
 When not specified, all changes were made by @castanhocorreia, @HavlockV and @snap01.
 
